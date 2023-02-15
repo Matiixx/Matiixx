@@ -69,4 +69,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Matiixx&theme=radical&border_radius=4)](https://git.io/streak-stats)
 
+##
+
+#### Projects
+
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matiixx&repo=gym-training-app&theme=radical)](https://gym-training-app.vercel.app/)
+
 </div>
