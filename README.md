@@ -44,6 +44,8 @@
 <img src="https://img.shields.io/badge/-C++-1b2638?style=for-the-badge&logo=C%2B%2B&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-Postman-1b2638?style=for-the-badge&logo=Postman&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-1b2638?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=A73689"/>
+<img src="https://img.shields.io/badge/-Railway-1b2638?style=for-the-badge&logo=Railway&logoColor=A73689"/>
+<img src="https://img.shields.io/badge/-Auth0-1b2638?style=for-the-badge&logo=Auth0&logoColor=A73689"/>
 
 </p>
 
