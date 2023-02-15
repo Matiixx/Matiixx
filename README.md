@@ -63,7 +63,7 @@
 
 ##
 
-### Contribution stats
+#### Contribution stats
 
 ##
 
