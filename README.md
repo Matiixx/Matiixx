@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-1b2638?style=for-the-badge&logo=Tailwind%20CSS&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-HTML5-1b2638?style=for-the-badge&logo=HTML5&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-CSS3-1b2638?style=for-the-badge&logo=CSS3&logoColor=A73689"/>
+<img src="https://img.shields.io/badge/-Git-1b2638?style=for-the-badge&logo=Git&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-C-1b2638?style=for-the-badge&logo=C&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-C++-1b2638?style=for-the-badge&logo=C%2B%2B&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-Python-1b2638?style=for-the-badge&logo=Python&logoColor=A73689"/>
@@ -50,6 +51,9 @@
 <img src="https://img.shields.io/badge/-Auth0-1b2638?style=for-the-badge&logo=Auth0&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-Vercel-1b2638?style=for-the-badge&logo=Vercel&logoColor=A73689"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-1b2638?style=for-the-badge&logo=PostgreSQL&logoColor=A73689"/>
+<img src="https://img.shields.io/badge/-Prettier-1b2638?style=for-the-badge&logo=Prettier&logoColor=A73689"/>
+<img src="https://img.shields.io/badge/-MongoDB-1b2638?style=for-the-badge&logo=MongoDB&logoColor=A73689"/>
+<img src="https://img.shields.io/badge/-Express-1b2638?style=for-the-badge&logo=Express&logoColor=A73689"/>
 
 </p>
 
