@@ -8,7 +8,7 @@
 
 <p>
 
-[<img src="https://img.shields.io/badge/-LinkedIn-1b2638?style=for-the-badge&logo=LinkedIn&logoColor=ff69b4"/>](www.linkedin.com/in/cichostepski-mateusz)
+[<img src="https://img.shields.io/badge/-LinkedIn-1b2638?style=for-the-badge&logo=LinkedIn&logoColor=ff69b4"/>](https://www.linkedin.com/in/cichostepski-mateusz)
 
 </p>
 <p>
