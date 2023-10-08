@@ -78,8 +78,6 @@
 
 <p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matiixx&repo=gym-training-app&theme=radical)](https://gym-training-app.vercel.app/)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matiixx&repo=BD-project&theme=radical)](https://github.com/Matiixx/BD-project)
 
 </p>
